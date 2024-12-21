@@ -16,10 +16,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * @author dong
- * @create 2020-05-04 22:50
- */
 @Controller
 @RequestMapping("/SystemServlet")
 public class SystemController {

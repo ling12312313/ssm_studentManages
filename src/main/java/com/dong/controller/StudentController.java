@@ -18,10 +18,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author dong
- * @create 2020-05-05 22:41
- */
+
 @Controller
 @RequestMapping("/StudentServlet")
 public class StudentController {

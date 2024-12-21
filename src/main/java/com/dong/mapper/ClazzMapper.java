@@ -6,10 +6,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @author dong
- * @create 2020-05-05 14:58
- */
+
 @Mapper
 public interface ClazzMapper {
 

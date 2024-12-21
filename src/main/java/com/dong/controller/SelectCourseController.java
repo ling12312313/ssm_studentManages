@@ -20,13 +20,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author dong
- * @create 2020-05-06 17:36
- */
+
 @Controller
 @RequestMapping("/SelectedCourseServlet")
-public class SelectCourseController {
+public class    SelectCourseController {
 
     @Autowired(required = false)
     CourseService courseService;

@@ -18,10 +18,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author dong
- * @create 2020-05-06 16:36
- */
+
 @Controller
 @RequestMapping("/CourseServlet")
 public class CourseController {

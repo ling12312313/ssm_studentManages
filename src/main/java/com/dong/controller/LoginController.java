@@ -24,11 +24,7 @@ import javax.servlet.http.HttpSession;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 
-/*
- * @description:null
- * @author: ling&feng
- * @date: 2024/12/20 20:33
- */
+
 @Controller
 public class LoginController {
 
